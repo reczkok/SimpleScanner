@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\bin\Debug\net7.0\SimpleScanner.exe
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\bin\Debug\net7.0\SimpleScanner.deps.json
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\bin\Debug\net7.0\SimpleScanner.runtimeconfig.json
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\bin\Debug\net7.0\SimpleScanner.dll
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\bin\Debug\net7.0\SimpleScanner.pdb
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\SimpleScanner.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\SimpleScanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\SimpleScanner.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\SimpleScanner.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\SimpleScanner.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\SimpleScanner.dll
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\refint\SimpleScanner.dll
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\SimpleScanner.pdb
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\SimpleScanner.genruntimeconfig.cache
+C:\Users\User\RiderProjects\SimpleScanner\SimpleScanner\obj\Debug\net7.0\ref\SimpleScanner.dll
