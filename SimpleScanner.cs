@@ -98,6 +98,6 @@ public static class SimpleScanner
         {
             Console.WriteLine(token);
         }
-        return 1;
+        return 0;
     }
 }
